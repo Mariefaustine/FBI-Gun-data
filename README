@@ -1,0 +1,11 @@
+# (FBI Gun Data Exploration)
+## by (Ugwuonah Faustina)
+
+## Dataset
+
+>This dataset consists data on the trend of gun purchase in the USA. The data was sourced from the FBI's National Instant Criminal Background Check System and presents monthly purchases of different guns in all fifty (50) US states from the year 1998 till 2017. The month column begins september, 2017 and runs till November, 1998 while the states column shows all the US states for each month. Questions were posed, in order to know the trend of gun purchases in the US during the sample period, the year with the most number of purchases, the gun most preferred, when permits were most acquired, and the equivalence of purchased guns to acquired permits.
+
+
+## Summary of Findings
+
+> Analysis was carried out on data which was sourced from the FBI's National Instant Criminal Background Check System to discover the trends of gun purchases in US states. Questions considered are the trend of gun purchases from 1998 to 2017, the year with the most number of purchases, most purchased gun type, the year of most acquired gun permits and the correspondence of acquired permits to gun purchase. After careful analysis, it was discovered that overall, gun purchases in US states have increased quite significantly between 1998 and 2017. Generally, purchases soared as from 2011. However in recent years (2015, 2016, 2017), it has been particularly high especially in the purchase of long guns which is shown to be an all time favorite through the years. The spike in illegal gun purchases which was previously negligible has risen alarmingly since 2012. This is coupled with inefficiencies in source data documentation which has been confirmed to be true by findings from the fifth (5th) research question. Therefore, even though there was a spike in the the acquisition of legal permits particularly in 2016, this statement from the FBI, 2022 that states "...the statistics represent the number of firearm background checks initiated through the NICS. They do not represent the number of firearms sold", has shown that most of the permit acquisitions are for concealed carry and not for the actual guns themselves. This could be modelled to similar trends as it may throw some light on the possible issue of gun control as a problem on a national scale.
